@@ -1,0 +1,15 @@
+.header {
+  background-image: url("../images/hero-image.jpeg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 868px;
+
+  &__menu {
+    position: relative;
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+  }
+}

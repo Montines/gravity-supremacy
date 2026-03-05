@@ -1,0 +1,14 @@
+.hero-section {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  top: 32%;
+  left: 18%;
+  font-size: 124px;
+  color: yellow;
+  text-shadow:
+    -3px -3px 3px black,
+    3px -3px 3px black,
+    -3px 3px 3px black,
+    3px 3px 3px black;
+}
