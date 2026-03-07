@@ -135,4 +135,21 @@ ul {
   margin-top: 30px;
   -ms-flex-pack: distribute;
       justify-content: space-around;
+}
+
+.compressions-section__title {
+  font-size: 64px;
+  text-align: center;
+}
+.compressions-section__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 50px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.compressions-section__img {
+  width: 100%;
+  max-width: 400px;
 }/*# sourceMappingURL=main.min.css.map */

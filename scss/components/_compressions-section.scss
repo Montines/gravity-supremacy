@@ -1,0 +1,17 @@
+.compressions-section {
+  &__title {
+    font-size: 64px;
+    text-align: center;
+  }
+
+  &__list {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+  }
+
+  &__img {
+    width: 100%;
+    max-width: 400px;
+  }
+}
